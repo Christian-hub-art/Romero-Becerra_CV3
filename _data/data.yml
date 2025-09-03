@@ -234,26 +234,32 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Habilidades
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Java & Spring Boot
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name:  Python (Flask, Django)
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: C++ & Data Structures
+        level: 80%
+
+      - name: JavaScript (React, Node.js)
+        level: 80%
+
+      - name: HTML5 & CSS3
+        level: 85%
+
+      - name: SQL (MySQL, PostgreSQL, Oracle)
+        level: 80%
+
+      - name: Networking (Cisco, GNS3, IPv4/IPv6)
+        level: 75%
+
+      - name: Git & GitHub
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
