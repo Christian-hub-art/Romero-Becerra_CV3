@@ -31,15 +31,12 @@ sidebar:
     pdf: 
 
     languages:
-      title: Languages
+      title: Idiomas
       info:
-        - idiom: English
+        - idiom: Español
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: Ingles
           level: Professional
 
     interests:
